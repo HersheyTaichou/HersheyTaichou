@@ -1,6 +1,6 @@
 ## Welcome! 👋
 
-My name is Michael (he/him), most people call me Mike. I've been working at an MSP for over a decade now. I started out as an intern on the help desk, moved all the way up to be one of the senior engineers on the help desk, and just recently joined the security team. I'm always looking for something new to learn and play with, wither at work or in my home lab. 
+My name is Michael (he/him), most people call me Mike. I've been working at an MSP for over a decade now. I started out as an intern on the help desk, moved all the way up to be one of the senior engineers on the help desk, and just recently joined the security team. I'm always looking for something new to learn and play with, whether at work or in my home lab. 
 
 Here are some of the places you can find me:
 
