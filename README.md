@@ -20,6 +20,8 @@ Here are some of the ⚡ Technologies I like to play around with:
 ![Proxmox](https://img.shields.io/badge/proxmox-proxmox?style=for-the-badge&logo=proxmox&logoColor=%23E57000&labelColor=%232b2a33&color=%232b2a33) &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
 
+[![certified-in-cybersecurity-cc](https://github.com/user-attachments/assets/06902f60-26cc-4e64-af49-b42def0551f7)](https://www.credly.com/users/michael-hiersche)
+
 <!--
 **HersheyTaichou/HersheyTaichou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
